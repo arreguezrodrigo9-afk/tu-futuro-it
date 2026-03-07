@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "DOCKERFILE"
+  },
+  "deploy": {
+    "startCommand": "tsx server.ts",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}

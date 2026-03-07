@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env.local
+tfit-db.json
+.DS_Store
